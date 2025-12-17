@@ -1,7 +1,6 @@
 # 📊 Data Professional Survey Breakdown | Power BI
 
-![Dashboard Preview](<img width="1321" height="729" alt="image" src="https://github.com/user-attachments/assets/7762fb14-3dda-496c-b01d-e71191ffe225" />
-)
+![Dashboard Preview](<img width="1290" height="724" alt="image" src="https://github.com/user-attachments/assets/0a22efe2-1ac5-4bec-8b0d-0424f3d5a9d5" />)
 
 ---
 
@@ -44,8 +43,7 @@ For full interactivity, download and open the `.pbix` file in **Power BI Desktop
 ```
 ├── Data Professional Survey Breakdown.pbix
 ├── Power BI - Final Project.xlsx
-├── screenshots/
-│   └── data_professional_survey_dashboard.png
+├── data_professional_survey_dashboard.png
 ├── README.md
 ```
 
