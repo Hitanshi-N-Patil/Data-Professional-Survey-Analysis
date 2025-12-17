@@ -1,6 +1,6 @@
 # 📊 Data Professional Survey Breakdown | Power BI
 
-![Dashboard Preview]("C:\Users\hitan\Downloads\BI ONESHOT\screenshot\data_professional_survey_dashboard.png")
+![Dashboard Preview](data_professional_survey_dashboard.png)
 
 ---
 
