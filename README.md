@@ -52,4 +52,3 @@ For full interactivity, download and open the `.pbix` file in **Power BI Desktop
 
 ---
 
-⭐ *If you find this project useful, feel free to star the repository!*
